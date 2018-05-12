@@ -1,0 +1,41 @@
+_repo: Tales-From-Scottish-Ballads_28424
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stewart, Allan
+    birthdate: 1865
+    deathdate: 1951
+    gutenberg_agent_id: '33328'
+    url: http://www.gutenberg.org/2009/agents/33328
+covers:
+- cover_type: archival
+  image_path: 28424-h/images/cover-400.jpg
+creator:
+  author:
+    agent_name: Grierson, Elizabeth W. (Elizabeth Wilson)
+    aliases:
+    - Grierson, Elizabeth Wilson
+    - Grierson, E. W. (Elizabeth Wilson)
+    gutenberg_agent_id: '33327'
+    url: http://www.gutenberg.org/2009/agents/33327
+description: ''
+gutenberg_issued: '2009-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, Scots -- Adaptations'
+- !lcsh 'Ballads, Scots -- Juvenile literature'
+- !lcc 'PR'
+- !lcc 'PZ'
+tableOfContents: The Lochmaben harper -- The laird o' Logie -- Kinmont Willie -- The
+  gude Wallace -- The warlock o' Oakwood -- Muckle-mou'd Meg -- Dick o' the cow--
+  The heir of Linne -- Black Agnace of Dunbar -- Thomas the rhymer -- Lord Soulis
+  -- The brownie of Blednock -- Sir Patrick Spens -- Young Bekie -- The Earl of Mar's
+  daughter -- Hynde Horn -- The gay gos-hawk.
+title: Tales From Scottish Ballads
+url: http://www.gutenberg.org/ebooks/28424
